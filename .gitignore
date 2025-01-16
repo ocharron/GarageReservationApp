@@ -1,0 +1,21 @@
+# Automatically generated files by Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.buildlog/
+build/
+
+# IDE or system-specific files
+.idea/
+*.iml
+*.log
+
+# User-specific directories
+macos/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+ios/Flutter/ephemeral/
+linux/Flutter/ephemeral/
+
+# Other environment-specific files
+*.lock
