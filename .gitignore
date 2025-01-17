@@ -19,3 +19,8 @@ linux/Flutter/ephemeral/
 
 # Other environment-specific files
 *.lock
+
+# Android specific files
+.android/
+local.properties
+.gradle/
