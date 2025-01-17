@@ -1,7 +1,7 @@
 # Garage Reservation App - Car Service Appointment Booking
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ocharron/GarageReservationApp/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/ocharron/GarageReservationApp/blob/master/README_fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ocharron/GarageReservationApp/blob/main/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/ocharron/GarageReservationApp/blob/main/README_fr.md)
 
 Garage Reservation App is a fictive application built to streamline the booking of automotive services at your local garage. With this app, customers can easily schedule appointments based on mechanics' availabilities.
 
